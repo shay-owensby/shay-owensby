@@ -1,14 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=flat&color=0a0a0a&height=220&section=header&text=Shay%20Owensby&fontSize=75&fontColor=0a0a0a&animation=fadeIn&fontAlignY=40&desc=Founder%20%40%20Unchained%20AI%20Solutions%20%E2%80%94%20No%20Hype.%20Just%20Results.%20%E2%9B%93%EF%B8%8F&descAlignY=62&descSize=16&descColor=0a0a0a&fontFamily=Space%20Mono" width="100%" />
-
 <div align="center">
 
+# `> Shay Owensby`
+Founder @ Unchained AI Solutions
+
 [![Website](https://img.shields.io/badge/unchainedaisolutions.com-1cae06?style=for-the-badge&logo=safari&logoColor=0a0a0a)](https://unchainedaisolutions.com)
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=1cae06&labelColor=0a0a0a)](https://x.com/unchained64079)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=1cae06&labelColor=0a0a0a)](https://www.instagram.com/unchainedaisolutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=1cae06&labelColor=0a0a0a)](https://www.linkedin.com/company/unchainedaisolutions)
-[![Skool](https://img.shields.io/badge/Skool-0a0a0a?style=for-the-badge&logo=skool&logoColor=1cae06&labelColor=0a0a0a)](https://www.skool.com/unchained-ai-solutions)
-[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=1cae06&labelColor=0a0a0a)](https://www.facebook.com/unchainedaisolutions)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=1cae06&labelColor=0a0a0a)](https://github.com/shay-owensby)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=1cae06&labelColor=0a0a0a)](https://x.com/YOUR_X_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=1cae06&labelColor=0a0a0a)](https://instagram.com/YOUR_IG_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=1cae06&labelColor=0a0a0a)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Skool](https://img.shields.io/badge/Skool-0a0a0a?style=for-the-badge&logo=skool&logoColor=1cae06&labelColor=0a0a0a)](https://skool.com/YOUR_SKOOL_HANDLE)
 
 </div>
 
@@ -32,6 +31,7 @@ $ cat about.txt
   Company : Unchained AI Solutions — Springfield, MO
   Mission : Replace manual work with intelligent systems.
             Audit → Strategy → Build → Scale.
+  Creed   : No hype. Just results. ⛓️
 ```
 
 I build AI-powered systems for businesses that are done waiting. Seven service lines. One goal: make AI work for your bottom line.
