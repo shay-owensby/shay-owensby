@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=220&section=header&text=Shay%20Owensby&fontSize=75&fontColor=1cae06&animation=fadeIn&fontAlignY=40&desc=Founder%20%40%20Unchained%20AI%20Solutions%20%E2%80%94%20No%20Hype.%20Just%20Results.%20%E2%9B%93%EF%B8%8F&descAlignY=62&descSize=16&descColor=a0a0a0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=220&section=header&text=Shay%20Owensby&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Founder%20%40%20Unchained%20AI%20Solutions%20%E2%80%94%20No%20Hype.%20Just%20Results.%20%E2%9B%93%EF%B8%8F&descAlignY=62&descSize=16&descColor=ffffff&fontFamily=Space%20Mono" width="100%" />
 
 <div align="center">
 
