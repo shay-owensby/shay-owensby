@@ -3,11 +3,46 @@
 # `> Shay Owensby`
 Founder @ Unchained AI Solutions
 
-[![Website](https://img.shields.io/badge/unchainedaisolutions.com-1cae06?style=for-the-badge&logo=safari&logoColor=0a0a0a)](https://unchainedaisolutions.com)
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=1cae06&labelColor=0a0a0a)](https://x.com/YOUR_X_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=1cae06&labelColor=0a0a0a)](https://instagram.com/YOUR_IG_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=1cae06&labelColor=0a0a0a)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Skool](https://img.shields.io/badge/Skool-0a0a0a?style=for-the-badge&logo=skool&logoColor=1cae06&labelColor=0a0a0a)](https://skool.com/YOUR_SKOOL_HANDLE)
+<style>
+  .social-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 4px;
+    border: 2px solid #0a0a0a;
+    background-color: transparent;
+    color: #0a0a0a;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Space Mono', monospace;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+
+  .social-btn:hover {
+    background-color: #0a0a0a;
+    color: #ffffff;
+  }
+
+  .social-btn.solid {
+    background-color: #1cae06;
+    border-color: #1cae06;
+    color: #0a0a0a;
+  }
+
+  .social-btn.solid:hover {
+    background-color: #158c04;
+    border-color: #158c04;
+    color: #0a0a0a;
+  }
+</style>
+
+<a href="https://unchainedaisolutions.com" class="social-btn solid">UNCHAINEDAISOLUTIONS.COM</a>
+<a href="https://x.com/unchained64079" class="social-btn">X</a>
+<a href="https://www.instagram.com/unchainedaisolutions" class="social-btn">INSTAGRAM</a>
+<a href="https://www.linkedin.com/company/unchainedaisolutions" class="social-btn">LINKEDIN</a>
+<a href="https://www.skool.com/unchained-ai-solutions" class="social-btn">SKOOL</a>
+<a href="https://www.facebook.com/unchainedaisolutions" class="social-btn">FACEBOOK</a>
+<a href="https://github.com/shay-owensby" class="social-btn">GITHUB</a>
 
 </div>
 
