@@ -3,7 +3,13 @@
 # `> Shay Owensby`
 Founder @ Unchained AI Solutions
 
-[Website](https://unchainedaisolutions.com) • [X](https://x.com/unchained64079) • [Instagram](https://www.instagram.com/unchainedaisolutions) • [LinkedIn](https://www.linkedin.com/company/unchainedaisolutions) • [Skool](https://www.skool.com/unchained-ai-solutions) • [Facebook](https://www.facebook.com/unchainedaisolutions) • [GitHub](https://github.com/shay-owensby)
+[![Website](https://img.shields.io/badge/unchainedaisolutions.com-1cae06?style=for-the-badge&logo=safari&logoColor=0a0a0a)](https://unchainedaisolutions.com)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=1cae06&labelColor=0a0a0a)](https://x.com/unchained64079)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=1cae06&labelColor=0a0a0a)](https://www.instagram.com/unchainedaisolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=1cae06&labelColor=0a0a0a)](https://www.linkedin.com/company/unchainedaisolutions)
+[![Skool](https://img.shields.io/badge/Skool-0a0a0a?style=for-the-badge&logo=skool&logoColor=1cae06&labelColor=0a0a0a)](https://www.skool.com/unchained-ai-solutions)
+[![Facebook](https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=1cae06&labelColor=0a0a0a)](https://www.facebook.com/unchainedaisolutions)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=1cae06&labelColor=0a0a0a)](https://github.com/shay-owensby)
 
 </div>
 
@@ -19,7 +25,7 @@ Founder @ Unchained AI Solutions
 
 ## `> whoami`
 
-```bash
+\`\`\`bash
 $ cat about.txt
 
   Name    : Shay Owensby
@@ -27,7 +33,8 @@ $ cat about.txt
   Company : Unchained AI Solutions — Springfield, MO
   Mission : Replace manual work with intelligent systems.
             Audit → Strategy → Build → Scale.
-```
+  Creed   : No hype. Just results. ⛓️
+\`\`\`
 
 I build AI-powered systems for businesses that are done waiting. Seven service lines. One goal: make AI work for your bottom line.
 
@@ -35,7 +42,7 @@ I build AI-powered systems for businesses that are done waiting. Seven service l
 
 ## `> ls ./services`
 
-```
+\`\`\`
 📂 unchained-ai-solutions/
 ├── 🤖 automations/        # Replace manual workflows end-to-end
 ├── 📱 app-development/    # AI-native apps, built fast
@@ -44,7 +51,7 @@ I build AI-powered systems for businesses that are done waiting. Seven service l
 ├── 🎯 sem-paid-ads/       # Campaigns built around ROI
 ├── 📊 custom-dashboards/  # Real-time intel, not spreadsheet soup
 └── 📬 email-sms-marketing/ # Sequences that actually close
-```
+\`\`\`
 
 ---
 
