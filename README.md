@@ -3,46 +3,7 @@
 # `> Shay Owensby`
 Founder @ Unchained AI Solutions
 
-<style>
-  .social-btn {
-    display: inline-block;
-    padding: 8px 16px;
-    margin: 4px;
-    border: 2px solid #0a0a0a;
-    background-color: transparent;
-    color: #0a0a0a;
-    text-decoration: none;
-    font-weight: bold;
-    font-family: 'Space Mono', monospace;
-    border-radius: 4px;
-    transition: all 0.3s ease;
-  }
-
-  .social-btn:hover {
-    background-color: #0a0a0a;
-    color: #ffffff;
-  }
-
-  .social-btn.solid {
-    background-color: #1cae06;
-    border-color: #1cae06;
-    color: #0a0a0a;
-  }
-
-  .social-btn.solid:hover {
-    background-color: #158c04;
-    border-color: #158c04;
-    color: #0a0a0a;
-  }
-</style>
-
-<a href="https://unchainedaisolutions.com" class="social-btn solid">UNCHAINEDAISOLUTIONS.COM</a>
-<a href="https://x.com/unchained64079" class="social-btn">X</a>
-<a href="https://www.instagram.com/unchainedaisolutions" class="social-btn">INSTAGRAM</a>
-<a href="https://www.linkedin.com/company/unchainedaisolutions" class="social-btn">LINKEDIN</a>
-<a href="https://www.skool.com/unchained-ai-solutions" class="social-btn">SKOOL</a>
-<a href="https://www.facebook.com/unchainedaisolutions" class="social-btn">FACEBOOK</a>
-<a href="https://github.com/shay-owensby" class="social-btn">GITHUB</a>
+[Website](https://unchainedaisolutions.com) • [X](https://x.com/unchained64079) • [Instagram](https://www.instagram.com/unchainedaisolutions) • [LinkedIn](https://www.linkedin.com/company/unchainedaisolutions) • [Skool](https://www.skool.com/unchained-ai-solutions) • [Facebook](https://www.facebook.com/unchainedaisolutions) • [GitHub](https://github.com/shay-owensby)
 
 </div>
 
@@ -66,7 +27,6 @@ $ cat about.txt
   Company : Unchained AI Solutions — Springfield, MO
   Mission : Replace manual work with intelligent systems.
             Audit → Strategy → Build → Scale.
-  Creed   : No hype. Just results. ⛓️
 ```
 
 I build AI-powered systems for businesses that are done waiting. Seven service lines. One goal: make AI work for your bottom line.
