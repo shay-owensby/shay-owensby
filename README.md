@@ -85,36 +85,4 @@ I build AI-powered systems for businesses that are done waiting. Seven service l
 
 ---
 
-## `> ./stats.sh`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shay-owensby&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=1cae06&icon_color=1cae06&text_color=f0f0f0&border_color=1cae06&border_radius=2&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-owensby&layout=compact&theme=dark&bg_color=0a0a0a&title_color=1cae06&text_color=f0f0f0&border_color=1cae06&border_radius=2&hide_border=false&langs_count=8" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shay-owensby&theme=dark&background=0a0a0a&border=1cae06&stroke=1cae06&ring=1cae06&fire=ff4500&currStreakLabel=1cae06&sideLabels=a0a0a0&dates=a0a0a0&border_radius=2" />
-</div>
-
----
-
-## `> tail -f contributions.log`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shay-owensby&bg_color=0a0a0a&color=1cae06&line=1cae06&point=ff4500&area=true&area_color=1cae06&hide_border=false&border_color=1cae06&custom_title=Contribution%20Activity" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-```
-[ unchainedaisolutions.com ] ──────────────────────────────── [ Springfield, MO ]
-      The last AI firm you'll ever need to hire. ⛓️
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer&animation=fadeIn" width="100%" />
